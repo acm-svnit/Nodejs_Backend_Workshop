@@ -5,7 +5,7 @@ Find all the prerequisite setups <a href="https://docs.google.com/document/d/1Vb
 
 ## Presentation
 
-Find the presentation used in the session <a href="">here</a>
+Find the presentation used in the session <a href="https://docs.google.com/presentation/d/1tpFk-THemqzDmwyVE1IkukR_9YFFsSc2/edit#slide=id.p8">here</a>
 
 ## CRUD Application Routes
 ![](Images/Routes.JPG)
